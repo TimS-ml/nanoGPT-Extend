@@ -421,7 +421,7 @@ class GPT(nn.Module):
 def generate_text_simple(
     tokenizer: Any, 
     question: str, 
-    model: GPT = model, 
+    model: Any, 
     num_attempt: int = 3,  # num_attempt = batch
     max_length: int = 100
 ):
