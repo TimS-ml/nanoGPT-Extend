@@ -4,3 +4,6 @@
 [submodule "reference/llm.c"]
 	path = reference/llm.c
 	url = git@github.com:TimS-ml/llm.c.git
+[submodule "reference/BareGPT"]
+	path = reference/BareGPT
+	url = https://github.com/dbrll/BareGPT.git

@@ -1,8 +1,15 @@
-# nanoGPT-Mod
+# nanoGPT-Extend
 
-With BPE, Vision, RLHF, MOE, and more added.
+With BPE, Vision, RLHF, MOE added.
 
-Checkout ./mini_chatgpt_demo.ipynb for a demo.
+Checkout ./notebooks/mini_chatgpt_demo.ipynb for a demo.
+
+WIP: Numpy training
+
+Reference:
+- https://github.com/dbrll/BareGPT/tree/main
+- https://nlp.seas.harvard.edu/annotated-transformer/#batches-and-masking
+- https://github.com/AviSoori1x/makeMoE
 
 
 # nanoGPT
