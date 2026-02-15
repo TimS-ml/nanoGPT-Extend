@@ -7,3 +7,9 @@
 [submodule "reference/BareGPT"]
 	path = reference/BareGPT
 	url = https://github.com/dbrll/BareGPT.git
+[submodule "nanuGPT"]
+	path = reference/nanuGPT
+	url = https://github.com/sytelus/nanuGPT.git
+[submodule "reference/modded-nanogpt"]
+	path = reference/modded-nanogpt
+	url = https://github.com/KellerJordan/modded-nanogpt.git
